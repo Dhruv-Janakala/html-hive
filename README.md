@@ -19,8 +19,8 @@
   
   ---
 - List Elements <br><br>
-  <img src="./Code Snippets/List Elements Code.png" alt="Html Code Snippet" height="500px">
-  <img src="./3.0 List Elements/List Elements Output.png" alt="Heading Element Output" height="500px">
+  <img src="./Code Snippets/List Elements Code.png" alt="Html Code Snippet" height="430px">
+  <img src="./3.0 List Elements/List Elements Output.png" alt="Heading Element Output" height="430px">
   
   ---
 - Nesting and Indentation <br><br>
