@@ -4,8 +4,8 @@
 
 ## Contents
 - Heading Elements <br><br>
-  <img src="./Code Snippets/Heading Element Code.png" alt="Html Code Snippet" height="315px">
-  <img src="./2.1 Heading Element/Heading Element Output.png" alt="Heading Element Output" height="315px">
+  <img src="./Code Snippets/Heading Element Code.png" alt="Html Code Snippet" height="320px">
+  <img src="./2.1 Heading Element/Heading Element Output.png" alt="Heading Element Output" height="320px">
   
   ---
 - Paragraph Elements <br><br>
