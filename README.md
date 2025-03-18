@@ -58,6 +58,16 @@
 <br>
 
 ## Projects
-- Movie Ranking Project
-- Birthday Invite Project
-- Html Portfolio Project
+- Movie Ranking Project <br><br>
+  <img src="./Code Snippets/Movie Ranking Project Code.png" alt="" height="360px">
+  <a href=""><button><big><b>Preview</b></big></button></a>
+- Birthday Invite Project <br><br>
+  <img src="./Code Snippets/Birthday Invite Project Code.png" alt="" height="360px">
+  <a href=""><button><big><b>Preview</b></big></button></a>
+- Html Portfolio Project <br><br>
+  <img src="./Code Snippets/Html Portfolio Project Code.png" alt="" height="360px">
+  <img src="./Code Snippets/Html Portfolio Project - About Me Code.png" alt="" height="360px">
+  <img src="./Code Snippets/Html Portfolio Project - Contact Me Code.png" alt="" height="360px">
+  <img src="./Code Snippets/Html Portfolio Project - Birthday Invite Project Code.png" alt="" height="360px">
+  <img src="./Code Snippets/Html Portfolio Project - Movie Rankings Project Code.png" alt="" height="360px">
+  <a href=""><button><big><b>Preview</b></big></button></a>
