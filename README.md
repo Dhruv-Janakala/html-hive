@@ -9,8 +9,8 @@
   
   ---
 - Paragraph Elements <br><br>
-  <img src="./Code Snippets/Paragraph Element Code.png" alt="Html Code Snippet" height="350px">
-  <img src="./2.2 Paragraph Element/Paragraph Element Output.png" alt="Heading Element Output" height="350px">
+  <img src="./Code Snippets/Paragraph Element Code.png" alt="Html Code Snippet" height="330px">
+  <img src="./2.2 Paragraph Element/Paragraph Element Output.png" alt="Heading Element Output" height="330px">
   
   ---
 - Void Elements <br><br>
