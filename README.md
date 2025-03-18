@@ -46,7 +46,7 @@
   ---
 - Webpages <br><br>
   <img src="./Code Snippets/Webpages Code.png" alt="Html Code Snippet" height="250px">
-  <img src="./4.1 Webpages/Webpages Output.png" alt="Heading Element Output" height="250px">
+  <img src="./4.1 Webpages/Webpages - Home Page Output.png" alt="Heading Element Output" height="250px">
   <br>
   <img src="./Code Snippets/Webpages - About Me Code.png" alt="Html Code Snippet" height="250px">
   <img src="./4.1 Webpages/Webpages - About Me Output.png" alt="Heading Element Output" height="250px">
