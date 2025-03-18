@@ -30,7 +30,7 @@
   ---
 - Anchor Elements <br><br>
   <img src="./Code Snippets/Anchor Elements Code.png" alt="Html Code Snippet" height="340px">
-  <img src="./3.2 Anchor Elements/Anchor Elements Output.png" alt="Heading Element Output" height="340px">
+  <img src="./3.2 Anchor Elements/Anchor Element Output.png" alt="Heading Element Output" height="340px">
   
   ---
 - Image Elements <br><br>
