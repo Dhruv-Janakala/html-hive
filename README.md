@@ -60,12 +60,12 @@
 - Movie Ranking Project <br><br>
   <img src="./Code Snippets/Movie Ranking Project Code.png" alt="">
   <br>
-  <a href="" style="text-align: end;"><button><big><b>Preview</b></big></button></a>
+  <a href="">Preview</a>
   <br><br>
 - Birthday Invite Project <br><br>
   <img src="./Code Snippets/Birthday Invite Project Code.png" alt="" height="360px">
   <br>
-  <a href="" style="text-align: end;"><button><big><b>Preview</b></big></button></a>
+  <a href="">Preview</a>
   <br><br>
 - Html Portfolio Project <br><br>
   <img src="./Code Snippets/Html Portfolio Project Code.png" alt="" height="350px">
@@ -74,4 +74,4 @@
   <img src="./Code Snippets/Html Portfolio Project - Birthday Invite Project Code.png" alt="" height="370px">
   <img src="./Code Snippets/Html Portfolio Project - Movie Rankings Project Code.png" alt="">
   <br>
-  <a href="" style="text-align: end;"><button><big><b>Preview</b></big></button></a>
+  <a href="">Preview</a>
