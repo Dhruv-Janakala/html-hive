@@ -14,13 +14,13 @@
   
   ---
 - Void Elements <br><br>
-  <img src="./Code Snippets/Void Elements Code.png" alt="Html Code Snippet" height="420px">
-  <img src="./2.3 Void Elements/Void Elements Output.png" alt="Heading Element Output" height="420px">
+  <img src="./Code Snippets/Void Elements Code.png" alt="Html Code Snippet" height="340px">
+  <img src="./2.3 Void Elements/Void Elements Output.png" alt="Heading Element Output" height="340px">
   
   ---
 - List Elements <br><br>
-  <img src="./Code Snippets/List Elements Code.png" alt="Html Code Snippet" height="430px">
-  <img src="./3.0 List Elements/List Elements Output.png" alt="Heading Element Output" height="430px">
+  <img src="./Code Snippets/List Elements Code.png" alt="Html Code Snippet" height="400px">
+  <img src="./3.0 List Elements/List Elements Output.png" alt="Heading Element Output" height="400px">
   
   ---
 - Nesting and Indentation <br><br>
